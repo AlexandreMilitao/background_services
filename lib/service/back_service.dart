@@ -46,7 +46,7 @@ void onStart(ServiceInstance service) async {
         }
       }
       // code here
-      print('background service');
+      debugPrint('background service');
       service.invoke('update');
     },
   );

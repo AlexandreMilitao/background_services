@@ -36,6 +36,8 @@ dependencies:
   flutter_background_service_ios: ^5.0.1
   permission_handler: ^11.3.1
   flutter_local_notifications: ^17.2.1+2
+  flutter_blue_plus: ^1.32.11
+  get: ^4.6.6
 
 
   # The following adds the Cupertino Icons font to your application.
