@@ -1,7 +1,7 @@
 # background_services
 
 ## Getting Started
-
+As estapas a seguir devem ser conferidas!!!
 Em android/app/build.gradle
     Utilizar compileSdkVersion 34 
 
